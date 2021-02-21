@@ -9,7 +9,7 @@
 	<tr>
 		<th>Foto</th>
 		<th>NIS</th>
-		<th>Nama</th>
+		<th>Nama lenkap</th>
 		<th>Jenis Kelamin</th>
 		<th>Telepon</th>
 		<th>Alamat</th>
