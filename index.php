@@ -12,7 +12,7 @@
 		<th>Nama lenkap</th>
 		<th>Jenis Kelamin</th>
 		<th>Telepon</th>
-		<th>Alamat</th>
+		<th>Alamat lengkap</th>
 		<th colspan="2">Aksi</th>
 	</tr>
 	<?php
